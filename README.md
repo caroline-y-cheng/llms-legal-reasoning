@@ -1,5 +1,5 @@
 # llms-legal-reasoning
-Code to accompany "Evaluating LLMs on Legal Reasoning Benchmark: Performance and Human Involvement"
+Code to accompany "When Do LLMs Need Human Experts? Evidence for Social Science from Jurisprudential Classification"
 
 The annotation data for this project is available [here](https://drive.google.com/file/d/1i7dcshwcgCBF3TVLbNBC-Hutw8qVreTq/view?usp=sharing). 
 
